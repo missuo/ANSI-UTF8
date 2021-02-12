@@ -1,4 +1,4 @@
-# ansi-to-utf8
+# ANSI-TO-UTF8
 ANSI编码文件转换为UTF-8
 
 # 功能和介绍
